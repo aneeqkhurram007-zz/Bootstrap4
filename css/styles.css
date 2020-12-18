@@ -9,15 +9,16 @@
   min-height: 400px;
 }
 .footer {
-  background-color: rgb(208, 218, 214);
+  background-color: rgb(191, 186, 231);
   margin: 0px auto;
   padding: 20px 0px 20px 0px;
 }
 .jumbotron {
   padding: 70px 30px 70px 30px;
   margin: 0px auto;
-  background: rgb(214, 213, 212);
-  color: rgb(15, 15, 15);
+  background: rgb(128, 130, 240);
+  color: rgb(248, 241, 241);
+  font-weight: bold;
 }
 .address {
   font-size: 80%;
