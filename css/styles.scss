@@ -56,6 +56,16 @@ body {
     }
   }
 }
+.modal-header {
+  background: $background-dark;
+  color: #ddd;
+}
+.modal-body {
+  background: $background-pale;
+}
+.close {
+  color: #ddd;
+}
 #carouselButton {
   right: 0px;
   position: absolute;
